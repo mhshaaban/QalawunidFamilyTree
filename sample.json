@@ -7,6 +7,6 @@
 		],
 	"spouse":"?", "children": [
 		{"name":"?","spouse": "?","born": "?","died": "?"},
-		"name":"?","spouse": "?","born": "?","died": "?"},
+		{"name":"?","spouse": "?","born": "?","died": "?"},
 		]
 }
